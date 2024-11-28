@@ -1,1 +1,3 @@
-# Tugas-Project-Sederhana
+NAMA : Andra Gusmana
+NRP : 5323600045
+KELAS : 2 TRM B
